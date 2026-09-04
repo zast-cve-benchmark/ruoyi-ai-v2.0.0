@@ -1,0 +1,7 @@
+# 版本控制 / IDE
+.git
+.idea
+*.iml
+
+# 大体积非构建资源（Dockerfile 用不到 image/）
+image/
